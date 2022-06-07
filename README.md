@@ -121,6 +121,11 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
+- Latest Version (English MTL)
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/yeer-app/v2ray-agent_en-mtl/master/install_en_mtl.sh" && chmod 700 /root/install_en_mtl.sh && /root/install_en_mtl.sh
+```
+
 # 示例图
 
 <img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/install/install.jpg" width=700>
