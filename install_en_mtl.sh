@@ -118,7 +118,7 @@ initVar() {
 	#domain _
 	domain=
 
-	address of the CDN node
+	#address of the CDN node
 	add=
 
 	#Total progress of installation
